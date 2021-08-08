@@ -46,7 +46,7 @@ $ docker run --name pdns \
 **PowerDNS Configuration:**
 
 Append the PowerDNS setting to the command as shown in the example above.  
-See `docker run --rm psitrax/powerdns --help`
+See `docker run --rm quay.io/idwrx/powerdns --help`
 
 
 ## License
